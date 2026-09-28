@@ -19,5 +19,6 @@
 </style>
 Incremental Mass Rewritten NG
 <button class="btn" onclick="window.open('https://folderduquad.github.io/Incremental-Mass-Rewritten-NG', '_blank')">前往</button>
+
 Shark Incremental NG
 <button class="btn" onclick="window.open('https://folderduquad.github.io/shark_incremental_ng./', '_blank')">前往</button>
