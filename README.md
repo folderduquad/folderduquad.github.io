@@ -9,7 +9,7 @@
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color .2s ease, transform .1s ease;
+    transition: background-color .2s ease, transform .1s ease, color .2s ease;
   }
   .btn:hover { 
     background-color: #0060ff;
