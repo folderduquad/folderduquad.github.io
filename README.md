@@ -23,5 +23,5 @@ Incremental Mass Rewritten NG
 Shark Incremental NG
 <button class="btn" onclick="window.open('https://folderduquad.github.io/shark_incremental_ng./', '_blank')">前往</button>
 
-我的FG定义体系
+我的FG定义体系(OLDBREAKFOLD/NEWBREAKFOLD)
 <button class="btn" onclick="window.open('https://folderduquad.github.io/BREAKFOLD_Classification/', '_blank')">前往</button>
