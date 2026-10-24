@@ -25,3 +25,6 @@ Shark Incremental NG
 
 我的FG定义体系(OLDBREAKFOLD/NEWBREAKFOLD)
 <button class="btn" onclick="window.open('https://folderduquad.github.io/BREAKFOLD_Classification/', '_blank')">前往</button>
+
+考试模拟器
+<button class="btn" onclick="window.open('https://folderduquad.github.io/exam_sim/', '_blank')">前往</button>
